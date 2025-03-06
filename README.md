@@ -1,6 +1,3 @@
-# token-inspector
-Decode tokenized URLs 
-
 # 🔍 Tokenized URL Analyzer
 
 ## 📌 Project Overview
@@ -72,6 +69,6 @@ python decode_token.py 'dGVzdF9zdHJpbmc='
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🛠️ Author
-**Your Name**  
-📧 your.email@example.com  
-🐙 [GitHub Profile](https://github.com/your-username)
+**Chris Chege**  
+📧 chegechris959@gmail.com  
+🐙 [GitHub Profile](https://github.com/Chrischege)
