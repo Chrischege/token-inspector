@@ -69,6 +69,6 @@ python decode_token.py 'dGVzdF9zdHJpbmc='
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🛠️ Author
-**Chris Chege**  
+**Christopher Chege**  
 📧 chegechris959@gmail.com  
 🐙 [GitHub Profile](https://github.com/Chrischege)
